@@ -1,0 +1,1 @@
+sampleName	conditionBRO_1_ANAMMOX	ControlBRO_2_ANAMMOX	ControlBRO_1_SP_ELECTRODE	TreatmentBRO_2_SP_ELECTRODE	Treatment
